@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RestaurantClient:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="scrudop.war">
+      <element id="artifact" artifact-name="RestaurantClient:war exploded" />
+    </root>
+  </artifact>
+</component>
